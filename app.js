@@ -25,3 +25,13 @@ btn.addEventListener('click', function(){
     var randomQuote = quotes[Math.floor(Math.random()* quotes.length)]
     output.innerHTML =randomQuote;
 })
+
+
+//let file = document.querySelector("#file-input").files[0]; 
+// new FileReader object let reader = new FileReader(); 
+// event fired when file reading finished reader.addEventListener('load', function(e) { 
+// contents of the file let text = e.target.result; document.querySelector("#file-contents").textContent = text; }); 
+// event fired when file reading failed reader.addEventListener('error', function() { alert('Error : Failed to read file'); }); 
+// read file as text file reader.readAsText(file);
+//https://www.npmjs.com/package/filereader
+//https://stackoverflow.com/questions/6831918/node-js-read-a-text-file-into-an-array-each-line-an-item-in-the-array
