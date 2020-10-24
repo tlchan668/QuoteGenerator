@@ -18,10 +18,24 @@ let quotes = [
     '"I will honor Christmas in my heart and try to keep it all the year.", A Christmas Carol',
     '"The world is what you make it.  And it all starts with what you make of yourself." Fred Claus',
     '"Just remember the true spirit of Christmas lies in your heart.", The Polar Express',
-    
+    '"Do, or Do Not.  There is no try.", Yoda',
+    '"The Force will be with you. Always.", Obi-Wan Kenobi',
+    '"Why, you stuc-up, half-witted, scruffy-looking nerf herder!", Leia Organa',
+    '"Never tell me the odds!", Han Solo',
+    '"So this is how liberty dies.  With thunderous applause.", Padme Amidala',
 ];
 //create the function to display it
 btn.addEventListener('click', function(){
     var randomQuote = quotes[Math.floor(Math.random()* quotes.length)]
     output.innerHTML =randomQuote;
 })
+
+
+//let file = document.querySelector("#file-input").files[0]; 
+// new FileReader object let reader = new FileReader(); 
+// event fired when file reading finished reader.addEventListener('load', function(e) { 
+// contents of the file let text = e.target.result; document.querySelector("#file-contents").textContent = text; }); 
+// event fired when file reading failed reader.addEventListener('error', function() { alert('Error : Failed to read file'); }); 
+// read file as text file reader.readAsText(file);
+//https://www.npmjs.com/package/filereader
+//https://stackoverflow.com/questions/6831918/node-js-read-a-text-file-into-an-array-each-line-an-item-in-the-array
