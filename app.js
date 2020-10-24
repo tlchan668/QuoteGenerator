@@ -24,6 +24,8 @@ let quotes = [
     '"Never tell me the odds!", Han Solo',
     '"So this is how liberty dies.  With thunderous applause.", Padme Amidala',
     '"You know, no matter how much we fought, I have always haed watching you leave.", Leia Organa',
+
+    
 ];
 //create the function to display it
 btn.addEventListener('click', function(){
