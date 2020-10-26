@@ -12,15 +12,15 @@ body {
 }
 
 #btn{
-    margin:50px auto;
+    margin:25px auto;
     height:50px;
     width: 250px;
     font-size: 22px;
     background-color: cornflowerblue;
 }
 
-#output{
-    margin: 25px auto;
+#outputQuote,#outputAuthor{
+    margin: 5px auto;
     font-size: 25px;
     color: white;
 }
