@@ -1,5 +1,5 @@
 let btn = document.getElementById('btn');
-let output = document.getElementById('output');
+let output = document.getElementById('outputQuote');
 
 //array of quote
 let quotes = [
@@ -25,12 +25,13 @@ let quotes = [
     '"So this is how liberty dies.  With thunderous applause.", Padme Amidala',
     '"You know, no matter how much we fought, I have always haed watching you leave.", Leia Organa',
 
-    
+
 ];
 //create the function to display it
 btn.addEventListener('click', function(){
     var randomQuote = quotes[Math.floor(Math.random()* quotes.length)]
     output.innerHTML =randomQuote;
+    console.log(randomQuote);
 })
 
 
