@@ -24,6 +24,8 @@ let quotes = [
     '"Never tell me the odds!", Han Solo',
     '"So this is how liberty dies.  With thunderous applause.", Padme Amidala',
     '"You know, no matter how much we fought, I have always haed watching you leave.", Leia Organa',
+    '"The way I see it, if you want the rainbow, you gotta put up with the rain.", Dolly Parton',
+    
 
 
 ];
