@@ -25,6 +25,11 @@ let quotes = [
     '"So this is how liberty dies.  With thunderous applause.", Padme Amidala',
     '"You know, no matter how much we fought, I have always haed watching you leave.", Leia Organa',
     '"The way I see it, if you want the rainbow, you gotta put up with the rain.", Dolly Parton',
+    '"Do not judge me by my success, judge me by how many times I fell down and got back up again.", Nelson Mandela',
+    '"There is no time for ease and comfort.  It is time to date and endure.", Winston Churchill',
+    '"We are only as strong as we are united, as weak as we are divided.", J.K. Rowling',
+    '"When you have exhausted all possibilities, remember this: you have not", A. Edison',
+    '"You have power over your mind - not outside events.  Realize this, and you will find strength.", Marcus Aurelius',
     
 
 
