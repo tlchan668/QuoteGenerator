@@ -30,7 +30,10 @@ let quotes = [
     '"We are only as strong as we are united, as weak as we are divided.", J.K. Rowling',
     '"When you have exhausted all possibilities, remember this: you have not", A. Edison',
     '"You have power over your mind - not outside events.  Realize this, and you will find strength.", Marcus Aurelius',
-    
+    '"There are dark shaows on the earth, but its lights and stronger in the contrast.", Charles Dickens',
+    '"Double, double toil and trouble; Fire burn and caldron bubble.", From Shakespeares Macbeth',
+    '"I would like, if I may, to take you on a strange journey.", The criminologish, The Rocky Horror Picture Show 1975',
+    '"I have seen enough horror movies to know that any weirdo wearing a mask is never friendly.", Elizabeht, Friday the 13th Part VI: Jason Lives 1986',
 
 
 ];
