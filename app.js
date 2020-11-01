@@ -34,6 +34,7 @@ let quotes = [
     '"Double, double toil and trouble; Fire burn and caldron bubble.", From Shakespeares Macbeth',
     '"I would like, if I may, to take you on a strange journey.", The criminologish, The Rocky Horror Picture Show 1975',
     '"I have seen enough horror movies to know that any weirdo wearing a mask is never friendly.", Elizabeht, Friday the 13th Part VI: Jason Lives 1986',
+    '"You do not inspire your teammates by showing them how amazing you are. You inspire them by showing them how amazing they are.", Robyn Benincasa',
 
 
 ];
