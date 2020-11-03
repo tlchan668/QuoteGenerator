@@ -25,6 +25,10 @@ body {
     color: white;
 }
 
+#christmasCountdown{
+    background-color: red;
+}
+
 #myWork{
     background-color: aqua;
 }
